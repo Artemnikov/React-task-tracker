@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+To set up the project:
+Run npm install , or npm i .
+after all the packages were installed run:
+npm start - that will spin up the project.
+npm run server - that will start the json-server.
+this is not meant for production.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
